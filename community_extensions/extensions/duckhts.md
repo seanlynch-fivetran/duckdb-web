@@ -62,8 +62,8 @@ docs:
     MSVC builds (windows_amd64/windows_arm64) are not supported. MinGW/RTools
     is supported on Windows.
 
-extension_star_count: 1
-extension_star_count_pretty: 1
+extension_star_count: 3
+extension_star_count_pretty: 3
 extension_download_count: 162
 extension_download_count_pretty: 162
 image: '/images/community_extensions/social_preview/preview_community_extension_duckhts.png'
